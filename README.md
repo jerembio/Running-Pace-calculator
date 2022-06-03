@@ -13,4 +13,4 @@ IMPROVEMENTS:
 
 Here is an idea of how the UI could look like:
 
-![This is a sketch of the UI](/Screenshot 2022-06-03 at 18.02.21.png)
+![](sketchUI#1)
