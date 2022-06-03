@@ -13,4 +13,4 @@ IMPROVEMENTS:
 
 Here is an idea of how the UI could look like:
 
-![hello](sketchUI#1.png)
+![hello](sketch.png)
