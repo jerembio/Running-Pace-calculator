@@ -13,3 +13,4 @@ IMPROVEMENTS:
 
 Here is an idea of how the UI could look like:
 
+!Screenshot 2022-06-03 at 18.02.21.png
