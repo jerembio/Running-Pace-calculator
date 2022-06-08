@@ -8,7 +8,7 @@ BONUS: implementing a switch to be able to go from metric unit to imperial for t
 
 IMPROVEMENTS:
 
-1. Allow the user to modify time or distance with a cursor or a text entry after the first computation
+1. Allow the user ibcwubvpw9ub to modify time or distance with a cursor or a text entry after the first computation
 2. Allow to actually set the pace and time and then compute the distance, or the pace and time and then compute the time, etc..
 3. many many more ideas to come ;)
 4. just adding this to see the new git save
