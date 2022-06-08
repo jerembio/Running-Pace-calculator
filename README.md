@@ -12,6 +12,8 @@ IMPROVEMENTS:
 2. Allow to actually set the pace and time and then compute the distance, or the pace and time and then compute the time, etc..
 3. many many more ideas to come ;)
 4. just adding this to see the new git save
+5. Now let's do this modification again
+6. a new change
 
 Here is an idea of how the UI could look like:
 
