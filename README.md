@@ -14,6 +14,7 @@ IMPROVEMENTS:
 4. just adding this to see the new git save
 5. Now let's do this modification again
 6. a new change
+7. this is only for the new branch
 
 Here is an idea of how the UI could look like:
 
